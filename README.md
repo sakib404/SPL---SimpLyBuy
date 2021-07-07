@@ -1,2 +1,2 @@
-# SPL---SimpLyBuy
-Software Project Lab
+# SimplyBuy
+E-Commerce Website Project
